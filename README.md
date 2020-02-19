@@ -3,7 +3,7 @@
 
 ### Instructions
 
-* Place index.cgi in your web servers path that allows for ExecCGI.
+* Place `index.cgi` in your web servers path that allows for ExecCGI.
 
 https://httpd.apache.org/docs/2.4/howto/cgi.html
 
