@@ -18,3 +18,5 @@ https://httpd.apache.org/docs/2.4/howto/cgi.html
 ### Dependencies
 
 * Permissions to execute and access CGI scripts, RRD directories, and files.
+* RPC access to a BLUR node.
+* RRDTool
