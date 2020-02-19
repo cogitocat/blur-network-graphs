@@ -4,6 +4,7 @@
 ### Instructions
 
 * Place index.cgi in your web servers path that allows for ExecCGI.
+
 https://httpd.apache.org/docs/2.4/howto/cgi.html
 
 * Place `blur_collect_stats.sh` in a path for the CGI and cron to execute.
