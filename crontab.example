@@ -1,0 +1,2 @@
+# Collect once a minute for detailed graphs
+* * * * * /usr/local/bin/blur_collect_stats.sh main
